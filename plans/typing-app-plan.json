@@ -1,0 +1,27 @@
+{
+  "project": "Typing Speed App Prototype",
+  "version": "0.1.0",
+  "status": "in-progress",
+  "milestones": [
+    {
+      "id": "m1",
+      "name": "Project Structure",
+      "status": "completed"
+    },
+    {
+      "id": "m2",
+      "name": "Landing Page & Layout",
+      "status": "in-progress"
+    },
+    {
+      "id": "m3",
+      "name": "Typing Logic MVP",
+      "status": "pending"
+    },
+    {
+      "id": "m4",
+      "name": "Stats & Adaptive Mock",
+      "status": "pending"
+    }
+  ]
+}
